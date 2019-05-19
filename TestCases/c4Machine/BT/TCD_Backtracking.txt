@@ -1,0 +1,9 @@
+================================================================================
+********************************************************************************
+Backtracking Algorithm Detail result
+********************************************************************************
+================================================================================
+Below is spreadsheet-like data. Copy and paste on excel or google spreadsheet.
+
+Backtracking Algorithm Detail
+NQueen	Time	SUCCESS/FAIL	Number of Trials

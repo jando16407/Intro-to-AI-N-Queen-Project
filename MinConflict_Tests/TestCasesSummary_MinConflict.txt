@@ -1,0 +1,6 @@
+Below is spreadsheet-like data. Copy and paste on excel or google spreadsheet.
+
+Minimum Conflict Algorithm Summary
+Queen	Average time	Average iteration	Max steps	Number of Failure	TOTAL_STEPS	Number of trials
+
+

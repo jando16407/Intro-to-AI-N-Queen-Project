@@ -1,0 +1,3 @@
+Minimum Conflict Algorithm Detail
+Trials	Time	Iteration	Max steps	TOTAL STEPS	Suucess/Fail
+

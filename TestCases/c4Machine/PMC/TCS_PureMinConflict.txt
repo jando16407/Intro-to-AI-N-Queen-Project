@@ -1,0 +1,9 @@
+================================================================================
+********************************************************************************
+Pure Minimum Conflict Algorithm Summary result
+********************************************************************************
+================================================================================
+Below is spreadsheet-like data. Copy and paste on excel or google spreadsheet.
+
+Pure Minimum Conflict Algorith Summary
+NQueen	AvgTime	AvgIteration	Number of Trials

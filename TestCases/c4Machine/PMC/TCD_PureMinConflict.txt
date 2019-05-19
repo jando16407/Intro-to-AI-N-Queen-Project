@@ -1,0 +1,9 @@
+================================================================================
+********************************************************************************
+Pure Minimum Conflict Algorithm Detail result
+********************************************************************************
+================================================================================
+Below is spreadsheet-like data. Copy and paste on excel or google spreadsheet.
+
+Pure Minimum Conflict Algorithm Detail
+NQueen	Time	Iteration	SUCCESS/FAIL	Number of Trials

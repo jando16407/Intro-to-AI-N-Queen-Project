@@ -1,0 +1,18 @@
+/* Library to include: */
+#include <chrono>
+
+
+/* Set start time: */
+auto start = std::chrono::high_resolution_clock::now();
+
+
+/* Set stop time: */
+auto stop = std::chrono::high_resolution_clock::now();
+
+
+/* Calculate duration: */
+auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
+
+
+/* Display example: */
+std::cout<<duration.count()<<" microseconds"<<std::endl;

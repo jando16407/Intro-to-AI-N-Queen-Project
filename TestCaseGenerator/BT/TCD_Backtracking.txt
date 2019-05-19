@@ -1,0 +1,60 @@
+================================================================================
+********************************************************************************
+Backtracking Algorithm Detail result
+********************************************************************************
+================================================================================
+Below is spreadsheet-like data. Copy and paste on excel or google spreadsheet.
+
+Backtracking Algorithm Detail
+NQueen	Time	SUCCESS/FAIL	Number of Trials
+10	485	SUCCESS	1
+10	278	SUCCESS	2
+10	268	SUCCESS	3
+10	267	SUCCESS	4
+10	267	SUCCESS	5
+10	311	SUCCESS	6
+10	428	SUCCESS	7
+10	466	SUCCESS	8
+10	346	SUCCESS	9
+10	275	SUCCESS	10
+10	267	SUCCESS	11
+10	265	SUCCESS	12
+10	264	SUCCESS	13
+10	265	SUCCESS	14
+10	265	SUCCESS	15
+10	264	SUCCESS	16
+10	265	SUCCESS	17
+10	249	SUCCESS	18
+10	212	SUCCESS	19
+10	213	SUCCESS	20
+10	213	SUCCESS	21
+10	213	SUCCESS	22
+10	200	SUCCESS	23
+10	202	SUCCESS	24
+10	200	SUCCESS	25
+10	199	SUCCESS	26
+10	199	SUCCESS	27
+10	200	SUCCESS	28
+10	200	SUCCESS	29
+10	199	SUCCESS	30
+10	226	SUCCESS	31
+10	200	SUCCESS	32
+10	199	SUCCESS	33
+10	200	SUCCESS	34
+10	200	SUCCESS	35
+10	200	SUCCESS	36
+10	200	SUCCESS	37
+10	200	SUCCESS	38
+10	200	SUCCESS	39
+10	199	SUCCESS	40
+10	199	SUCCESS	41
+10	199	SUCCESS	42
+10	200	SUCCESS	43
+10	200	SUCCESS	44
+10	200	SUCCESS	45
+10	200	SUCCESS	46
+10	199	SUCCESS	47
+10	200	SUCCESS	48
+10	200	SUCCESS	49
+10	211	SUCCESS	50
+********************************************************************************

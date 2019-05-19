@@ -4,6 +4,8 @@
 
 This is a final project for Introduction to Artificial Intelligence class.
 We approached finding solutions for N-Queen problem by implementing Backtracking algorithm and Minimum conflict algorithm.
+See the FinalProject_submit for summary of this project.
+Other files are work-process.
 
 ## Algorithm
 
